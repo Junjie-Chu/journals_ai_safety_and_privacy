@@ -37,6 +37,8 @@
 
     Reconciling privacy and accuracy in AI for medical imaging
 
+    Maximum diffusion reinforcement learning
+
 ### Analysis (very few papers, benchmark and meta-analysis, usually less than 5 per year)
 
     A taxonomy and review of generalization research in NLP [Meta-analysis]
