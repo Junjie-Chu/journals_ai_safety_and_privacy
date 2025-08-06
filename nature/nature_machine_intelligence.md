@@ -27,13 +27,13 @@
 
     Efficient and scalable reinforcement learning for large-scale network control
 
-    A large-scale audit of dataset licensing and attribution in AI
+    A large-scale audit of dataset licensing and attribution in AI 
 
     On responsible machine learning datasets emphasizing fairness, privacy and regulatory norms with examples in biometrics and healthcare
 
     Automated construction of cognitive maps with visual predictive coding
 
-    Systematic analysis of 32,111 AI model cards characterizes documentation practice in AI
+    Systematic analysis of 32,111 AI model cards characterizes documentation practice in AI [Meta-analysis]
 
     Reconciling privacy and accuracy in AI for medical imaging
 
